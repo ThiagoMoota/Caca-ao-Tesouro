@@ -42,4 +42,4 @@ Um jogo em Python onde dois jogadores competem para encontrar tesouros e evitar 
 ---
 ## 👨‍💻 Autores
 
-Projeto desenvolvido por Moisés Waidemann,Gabriel Sbrana e Thiago Mota.
+Projeto desenvolvido por Moisés Waidemann, Gabriel Sbrana e Thiago Mota.
