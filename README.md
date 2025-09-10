@@ -40,6 +40,4 @@ Um jogo em Python onde dois jogadores competem para encontrar tesouros e evitar 
 - `main()` → executa o jogo principal.  
 
 ---
-## 👨‍💻 Autores
 
-Projeto desenvolvido por Moisés Waidemann, Gabriel Sbrana e Thiago Mota.
