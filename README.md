@@ -1,6 +1,6 @@
-# 🎯 Caça ao Tesouro  
+# 🎯 Caça ao Tesouro (Checkpoint 4)
 
-Um jogo em Python onde dois jogadores competem para encontrar tesouros e evitar armadilhas em um tabuleiro 10x10.  
+Avaliação Checkpoint 4 Python - Fiap: Um jogo em Python onde dois jogadores competem para encontrar tesouros e evitar armadilhas em um tabuleiro 10x10. 
 
 ---
 
